@@ -1,0 +1,11 @@
+com\movies\model\MovieDao.class
+com\movies\model\Category_.class
+com\movies\controller\SiteController.class
+com\movies\model\Orders_.class
+com\movies\model\OrdersDao.class
+com\movies\model\CategoryDao.class
+com\movies\model\Orders.class
+com\movies\controller\AdminController.class
+com\movies\model\Movie_.class
+com\movies\model\Category.class
+com\movies\model\Movie.class
